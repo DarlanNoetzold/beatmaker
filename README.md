@@ -10,3 +10,7 @@ Uma página que permite o usuário cria beats através de alguns samples diponib
 ---
 
 ### Site no Github Pages: https://darlannoetzold.github.io/beatmaker/
+
+---
+
+⭐️ From [DarlanNoetzold](https://github.com/DarlanNoetzold)
