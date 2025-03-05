@@ -1,15 +1,15 @@
 # Beatmaker
-## Desenvolvimento
-* Uso de javascript para a lógica da página.
-* Uso de HTML5 e CSS3 puro para a estrutura e design da página.
-## A página
-Uma página que permite o usuário cria beats através de alguns samples diponibilizados, ao clicar em uma tab ocorrerá uma animação e saíra o som desejado.
+## Development
+* Use of javascript for the page logic.
+* Use of pure HTML5 and CSS3 for the page structure and design.
+## The page
+A page that allows the user to create beats through some available samples, when clicking on a tab an animation will occur and the desired sound will be output.
 
 <p align="center"><img src="https://github.com/DarlanNoetzold/beatmaker/blob/master/beatmaker01.jpg" /></p>
 
 ---
 
-### Site no Github Pages: https://darlannoetzold.github.io/beatmaker/
+### Site on Github Pages: https://darlannoetzold.github.io/beatmaker/
 
 ---
 
